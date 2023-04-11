@@ -1,0 +1,15 @@
+header {
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: blue;
+    padding: 3px;
+}
+
+header nav ul li {
+    display: inline;
+    border: solid 2px;
+    border-color: blue;
+    padding: 0.5em;
+}
+
+
