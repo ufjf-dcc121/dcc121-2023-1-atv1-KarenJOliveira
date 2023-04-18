@@ -1,0 +1,19 @@
+header{
+    background: beige;
+    border: 0.5em solid burlywood;
+    padding-left: 10px;
+}
+
+header h1{
+    font-style: italic;
+    padding-left: 10px;
+}
+main{
+    padding: 0.5em;
+}
+main nav ul li{
+    border: 0.1em solid burlywood;
+    width: 90px;
+    display: inline;
+    padding: 0.5em;
+}
